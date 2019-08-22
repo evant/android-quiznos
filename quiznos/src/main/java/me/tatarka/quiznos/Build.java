@@ -21,6 +21,17 @@ public class Build {
         public static final int QUEIJADAS = 29;
         public static final int ANDROID_10 = 29;
         public static final int TEN = 29;
+        public static final int X = 29;
+        public static final int QX = 29;
+        public static final int Q_X = 29;
+        public static final int QXL = 29;
+        public static final int Q_XL = 29;
+        public static final int QXXL = 29;
+        public static final int Q_XXL = 29;
+        public static final int QXXXL = 29;
+        public static final int Q_XXXL = 29;
+        public static final int Qʀ = 29;
+        public static final int Qꜱ = 29;
 
         private VERSION_CODES() {
         }
