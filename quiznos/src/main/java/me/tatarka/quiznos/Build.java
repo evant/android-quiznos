@@ -19,6 +19,7 @@ public class Build {
         public static final int QUESITO = 29;
         public static final int QUEEN_OF_PUDDINGS = 29;
         public static final int QUEIJADAS = 29;
+        public static final int QUARTER_POUNDER_WITH_CHEESE = 29;
         public static final int ANDROID_10 = 29;
         public static final int TEN = 29;
 
