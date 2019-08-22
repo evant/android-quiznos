@@ -16,6 +16,9 @@ public class Build {
         public static final int Q = 29;
         public static final int QUIZNOS = 29;
         public static final int QUECHE = 29;
+        public static final int QUESITO = 29;
+        public static final int QUEEN_OF_PUDDINGS = 29;
+        public static final int QUEIJADAS = 29;
         public static final int ANDROID_10 = 29;
         public static final int TEN = 29;
 
