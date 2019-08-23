@@ -14,6 +14,9 @@ if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.QUESITO) { .. }
 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.QUEEN_OF_PUDDINGS) { .. }
 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.QUEIJADAS) { .. }
 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.QOUIGN_AMANN) { .. }
+if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.QUEBRA_QUEIXO) { .. }
+if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.QUEIJADINHA) { .. }
+if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.QUINDIN) { .. }
 ```
 
 Are you a fan of the boring naming? We got you covered too!
