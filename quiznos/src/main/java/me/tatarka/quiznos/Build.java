@@ -20,6 +20,7 @@ public class Build {
         public static final int QUEEN_OF_PUDDINGS = 29;
         public static final int QUEIJADAS = 29;
         public static final int QUARTER_POUNDER_WITH_CHEESE = 29;
+        public static final int QOUIGN_AMANN = 29;
         public static final int QUEBRA_QUEIXO = 29;
         public static final int QUEIJADINHA = 29;
         public static final int QUEQUE = 29;
