@@ -40,6 +40,7 @@ public class Build {
         public static final int Qꜱ = 29;
         public static final int QUEEN_CAKE = 29;
         public static final int QUINCE_TART = 29;
+        public static final int QT_PIE = 29;
 
         private VERSION_CODES() {
         }
